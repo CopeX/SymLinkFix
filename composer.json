@@ -1,0 +1,12 @@
+{
+  "name": "copex/symlinkfix",
+  "description": "Enables Symlinks which are disabled by default in Magento 1.9.3.4.",
+  "type": "magento-module",
+  "license": [
+    "GPL-3.0"
+  ],
+  "stability": "dev",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "3.*"
+  }
+}
